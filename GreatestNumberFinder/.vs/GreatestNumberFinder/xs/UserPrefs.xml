@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{52624730-C460-4CC0-A5A3-3DEA5DDB6396}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GreatestNumberFinder/Program.cs">
+    <Files>
+      <File FileName="GreatestNumberFinder/Program.cs" Line="52" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GreatestNumberFinder" expanded="True">
+            <Node name="GreatestNumberFinder" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GreatestNumberFinder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

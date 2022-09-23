@@ -1,0 +1,15 @@
+/Users/stan/Projects/BooleanStatement/BooleanStatement/bin/Debug/net6.0/BooleanStatement
+/Users/stan/Projects/BooleanStatement/BooleanStatement/bin/Debug/net6.0/BooleanStatement.deps.json
+/Users/stan/Projects/BooleanStatement/BooleanStatement/bin/Debug/net6.0/BooleanStatement.runtimeconfig.json
+/Users/stan/Projects/BooleanStatement/BooleanStatement/bin/Debug/net6.0/BooleanStatement.dll
+/Users/stan/Projects/BooleanStatement/BooleanStatement/bin/Debug/net6.0/BooleanStatement.pdb
+/Users/stan/Projects/BooleanStatement/BooleanStatement/obj/Debug/net6.0/BooleanStatement.csproj.AssemblyReference.cache
+/Users/stan/Projects/BooleanStatement/BooleanStatement/obj/Debug/net6.0/BooleanStatement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stan/Projects/BooleanStatement/BooleanStatement/obj/Debug/net6.0/BooleanStatement.AssemblyInfoInputs.cache
+/Users/stan/Projects/BooleanStatement/BooleanStatement/obj/Debug/net6.0/BooleanStatement.AssemblyInfo.cs
+/Users/stan/Projects/BooleanStatement/BooleanStatement/obj/Debug/net6.0/BooleanStatement.csproj.CoreCompileInputs.cache
+/Users/stan/Projects/BooleanStatement/BooleanStatement/obj/Debug/net6.0/BooleanStatement.dll
+/Users/stan/Projects/BooleanStatement/BooleanStatement/obj/Debug/net6.0/refint/BooleanStatement.dll
+/Users/stan/Projects/BooleanStatement/BooleanStatement/obj/Debug/net6.0/BooleanStatement.pdb
+/Users/stan/Projects/BooleanStatement/BooleanStatement/obj/Debug/net6.0/BooleanStatement.genruntimeconfig.cache
+/Users/stan/Projects/BooleanStatement/BooleanStatement/obj/Debug/net6.0/ref/BooleanStatement.dll

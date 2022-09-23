@@ -1,0 +1,15 @@
+/Users/stan/Projects/SumOfThreeRandomNumbers/SumOfThreeRandomNumbers/obj/Debug/net6.0/SumOfThreeRandomNumbers.csproj.AssemblyReference.cache
+/Users/stan/Projects/SumOfThreeRandomNumbers/SumOfThreeRandomNumbers/obj/Debug/net6.0/SumOfThreeRandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stan/Projects/SumOfThreeRandomNumbers/SumOfThreeRandomNumbers/obj/Debug/net6.0/SumOfThreeRandomNumbers.AssemblyInfoInputs.cache
+/Users/stan/Projects/SumOfThreeRandomNumbers/SumOfThreeRandomNumbers/obj/Debug/net6.0/SumOfThreeRandomNumbers.AssemblyInfo.cs
+/Users/stan/Projects/SumOfThreeRandomNumbers/SumOfThreeRandomNumbers/obj/Debug/net6.0/SumOfThreeRandomNumbers.csproj.CoreCompileInputs.cache
+/Users/stan/Projects/SumOfThreeRandomNumbers/SumOfThreeRandomNumbers/bin/Debug/net6.0/SumOfThreeRandomNumbers
+/Users/stan/Projects/SumOfThreeRandomNumbers/SumOfThreeRandomNumbers/bin/Debug/net6.0/SumOfThreeRandomNumbers.deps.json
+/Users/stan/Projects/SumOfThreeRandomNumbers/SumOfThreeRandomNumbers/bin/Debug/net6.0/SumOfThreeRandomNumbers.runtimeconfig.json
+/Users/stan/Projects/SumOfThreeRandomNumbers/SumOfThreeRandomNumbers/bin/Debug/net6.0/SumOfThreeRandomNumbers.dll
+/Users/stan/Projects/SumOfThreeRandomNumbers/SumOfThreeRandomNumbers/bin/Debug/net6.0/SumOfThreeRandomNumbers.pdb
+/Users/stan/Projects/SumOfThreeRandomNumbers/SumOfThreeRandomNumbers/obj/Debug/net6.0/SumOfThreeRandomNumbers.dll
+/Users/stan/Projects/SumOfThreeRandomNumbers/SumOfThreeRandomNumbers/obj/Debug/net6.0/refint/SumOfThreeRandomNumbers.dll
+/Users/stan/Projects/SumOfThreeRandomNumbers/SumOfThreeRandomNumbers/obj/Debug/net6.0/SumOfThreeRandomNumbers.pdb
+/Users/stan/Projects/SumOfThreeRandomNumbers/SumOfThreeRandomNumbers/obj/Debug/net6.0/SumOfThreeRandomNumbers.genruntimeconfig.cache
+/Users/stan/Projects/SumOfThreeRandomNumbers/SumOfThreeRandomNumbers/obj/Debug/net6.0/ref/SumOfThreeRandomNumbers.dll

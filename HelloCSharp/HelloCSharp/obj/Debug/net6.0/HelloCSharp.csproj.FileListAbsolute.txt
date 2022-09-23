@@ -1,0 +1,15 @@
+/Users/stan/Projects/HelloCSharp/HelloCSharp/bin/Debug/net6.0/HelloCSharp
+/Users/stan/Projects/HelloCSharp/HelloCSharp/bin/Debug/net6.0/HelloCSharp.deps.json
+/Users/stan/Projects/HelloCSharp/HelloCSharp/bin/Debug/net6.0/HelloCSharp.runtimeconfig.json
+/Users/stan/Projects/HelloCSharp/HelloCSharp/bin/Debug/net6.0/HelloCSharp.dll
+/Users/stan/Projects/HelloCSharp/HelloCSharp/bin/Debug/net6.0/HelloCSharp.pdb
+/Users/stan/Projects/HelloCSharp/HelloCSharp/obj/Debug/net6.0/HelloCSharp.csproj.AssemblyReference.cache
+/Users/stan/Projects/HelloCSharp/HelloCSharp/obj/Debug/net6.0/HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stan/Projects/HelloCSharp/HelloCSharp/obj/Debug/net6.0/HelloCSharp.AssemblyInfoInputs.cache
+/Users/stan/Projects/HelloCSharp/HelloCSharp/obj/Debug/net6.0/HelloCSharp.AssemblyInfo.cs
+/Users/stan/Projects/HelloCSharp/HelloCSharp/obj/Debug/net6.0/HelloCSharp.csproj.CoreCompileInputs.cache
+/Users/stan/Projects/HelloCSharp/HelloCSharp/obj/Debug/net6.0/HelloCSharp.dll
+/Users/stan/Projects/HelloCSharp/HelloCSharp/obj/Debug/net6.0/refint/HelloCSharp.dll
+/Users/stan/Projects/HelloCSharp/HelloCSharp/obj/Debug/net6.0/HelloCSharp.pdb
+/Users/stan/Projects/HelloCSharp/HelloCSharp/obj/Debug/net6.0/HelloCSharp.genruntimeconfig.cache
+/Users/stan/Projects/HelloCSharp/HelloCSharp/obj/Debug/net6.0/ref/HelloCSharp.dll

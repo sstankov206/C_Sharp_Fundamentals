@@ -1,0 +1,15 @@
+/Users/stan/Projects/MoonWeight/MoonWeight/bin/Debug/net6.0/MoonWeight
+/Users/stan/Projects/MoonWeight/MoonWeight/bin/Debug/net6.0/MoonWeight.deps.json
+/Users/stan/Projects/MoonWeight/MoonWeight/bin/Debug/net6.0/MoonWeight.runtimeconfig.json
+/Users/stan/Projects/MoonWeight/MoonWeight/bin/Debug/net6.0/MoonWeight.dll
+/Users/stan/Projects/MoonWeight/MoonWeight/bin/Debug/net6.0/MoonWeight.pdb
+/Users/stan/Projects/MoonWeight/MoonWeight/obj/Debug/net6.0/MoonWeight.csproj.AssemblyReference.cache
+/Users/stan/Projects/MoonWeight/MoonWeight/obj/Debug/net6.0/MoonWeight.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stan/Projects/MoonWeight/MoonWeight/obj/Debug/net6.0/MoonWeight.AssemblyInfoInputs.cache
+/Users/stan/Projects/MoonWeight/MoonWeight/obj/Debug/net6.0/MoonWeight.AssemblyInfo.cs
+/Users/stan/Projects/MoonWeight/MoonWeight/obj/Debug/net6.0/MoonWeight.csproj.CoreCompileInputs.cache
+/Users/stan/Projects/MoonWeight/MoonWeight/obj/Debug/net6.0/MoonWeight.dll
+/Users/stan/Projects/MoonWeight/MoonWeight/obj/Debug/net6.0/refint/MoonWeight.dll
+/Users/stan/Projects/MoonWeight/MoonWeight/obj/Debug/net6.0/MoonWeight.pdb
+/Users/stan/Projects/MoonWeight/MoonWeight/obj/Debug/net6.0/MoonWeight.genruntimeconfig.cache
+/Users/stan/Projects/MoonWeight/MoonWeight/obj/Debug/net6.0/ref/MoonWeight.dll

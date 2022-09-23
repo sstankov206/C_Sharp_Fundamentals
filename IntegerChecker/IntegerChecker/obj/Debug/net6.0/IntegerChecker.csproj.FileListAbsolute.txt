@@ -1,0 +1,15 @@
+/Users/stan/Projects/IntegerChecker/IntegerChecker/bin/Debug/net6.0/IntegerChecker
+/Users/stan/Projects/IntegerChecker/IntegerChecker/bin/Debug/net6.0/IntegerChecker.deps.json
+/Users/stan/Projects/IntegerChecker/IntegerChecker/bin/Debug/net6.0/IntegerChecker.runtimeconfig.json
+/Users/stan/Projects/IntegerChecker/IntegerChecker/bin/Debug/net6.0/IntegerChecker.dll
+/Users/stan/Projects/IntegerChecker/IntegerChecker/bin/Debug/net6.0/IntegerChecker.pdb
+/Users/stan/Projects/IntegerChecker/IntegerChecker/obj/Debug/net6.0/IntegerChecker.csproj.AssemblyReference.cache
+/Users/stan/Projects/IntegerChecker/IntegerChecker/obj/Debug/net6.0/IntegerChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stan/Projects/IntegerChecker/IntegerChecker/obj/Debug/net6.0/IntegerChecker.AssemblyInfoInputs.cache
+/Users/stan/Projects/IntegerChecker/IntegerChecker/obj/Debug/net6.0/IntegerChecker.AssemblyInfo.cs
+/Users/stan/Projects/IntegerChecker/IntegerChecker/obj/Debug/net6.0/IntegerChecker.csproj.CoreCompileInputs.cache
+/Users/stan/Projects/IntegerChecker/IntegerChecker/obj/Debug/net6.0/IntegerChecker.dll
+/Users/stan/Projects/IntegerChecker/IntegerChecker/obj/Debug/net6.0/refint/IntegerChecker.dll
+/Users/stan/Projects/IntegerChecker/IntegerChecker/obj/Debug/net6.0/IntegerChecker.pdb
+/Users/stan/Projects/IntegerChecker/IntegerChecker/obj/Debug/net6.0/IntegerChecker.genruntimeconfig.cache
+/Users/stan/Projects/IntegerChecker/IntegerChecker/obj/Debug/net6.0/ref/IntegerChecker.dll

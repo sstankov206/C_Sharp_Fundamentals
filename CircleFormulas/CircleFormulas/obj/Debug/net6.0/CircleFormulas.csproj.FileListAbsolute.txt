@@ -1,0 +1,15 @@
+/Users/stan/Projects/CircleFormulas/CircleFormulas/bin/Debug/net6.0/CircleFormulas
+/Users/stan/Projects/CircleFormulas/CircleFormulas/bin/Debug/net6.0/CircleFormulas.deps.json
+/Users/stan/Projects/CircleFormulas/CircleFormulas/bin/Debug/net6.0/CircleFormulas.runtimeconfig.json
+/Users/stan/Projects/CircleFormulas/CircleFormulas/bin/Debug/net6.0/CircleFormulas.dll
+/Users/stan/Projects/CircleFormulas/CircleFormulas/bin/Debug/net6.0/CircleFormulas.pdb
+/Users/stan/Projects/CircleFormulas/CircleFormulas/obj/Debug/net6.0/CircleFormulas.csproj.AssemblyReference.cache
+/Users/stan/Projects/CircleFormulas/CircleFormulas/obj/Debug/net6.0/CircleFormulas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stan/Projects/CircleFormulas/CircleFormulas/obj/Debug/net6.0/CircleFormulas.AssemblyInfoInputs.cache
+/Users/stan/Projects/CircleFormulas/CircleFormulas/obj/Debug/net6.0/CircleFormulas.AssemblyInfo.cs
+/Users/stan/Projects/CircleFormulas/CircleFormulas/obj/Debug/net6.0/CircleFormulas.csproj.CoreCompileInputs.cache
+/Users/stan/Projects/CircleFormulas/CircleFormulas/obj/Debug/net6.0/CircleFormulas.dll
+/Users/stan/Projects/CircleFormulas/CircleFormulas/obj/Debug/net6.0/refint/CircleFormulas.dll
+/Users/stan/Projects/CircleFormulas/CircleFormulas/obj/Debug/net6.0/CircleFormulas.pdb
+/Users/stan/Projects/CircleFormulas/CircleFormulas/obj/Debug/net6.0/CircleFormulas.genruntimeconfig.cache
+/Users/stan/Projects/CircleFormulas/CircleFormulas/obj/Debug/net6.0/ref/CircleFormulas.dll

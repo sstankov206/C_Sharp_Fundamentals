@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{69D5AB41-6D81-43CB-A6AE-1312C1492E72}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IntegerChecker/Program.cs">
+    <Files>
+      <File FileName="IntegerChecker/Program.cs" Line="21" Column="72" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IntegerChecker" expanded="True">
+            <Node name="IntegerChecker" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IntegerChecker PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

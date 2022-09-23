@@ -1,0 +1,15 @@
+/Users/stan/Projects/GreatestNumberFinder/GreatestNumberFinder/obj/Debug/net6.0/GreatestNumberFinder.csproj.AssemblyReference.cache
+/Users/stan/Projects/GreatestNumberFinder/GreatestNumberFinder/obj/Debug/net6.0/GreatestNumberFinder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stan/Projects/GreatestNumberFinder/GreatestNumberFinder/obj/Debug/net6.0/GreatestNumberFinder.AssemblyInfoInputs.cache
+/Users/stan/Projects/GreatestNumberFinder/GreatestNumberFinder/obj/Debug/net6.0/GreatestNumberFinder.AssemblyInfo.cs
+/Users/stan/Projects/GreatestNumberFinder/GreatestNumberFinder/obj/Debug/net6.0/GreatestNumberFinder.csproj.CoreCompileInputs.cache
+/Users/stan/Projects/GreatestNumberFinder/GreatestNumberFinder/bin/Debug/net6.0/GreatestNumberFinder
+/Users/stan/Projects/GreatestNumberFinder/GreatestNumberFinder/bin/Debug/net6.0/GreatestNumberFinder.deps.json
+/Users/stan/Projects/GreatestNumberFinder/GreatestNumberFinder/bin/Debug/net6.0/GreatestNumberFinder.runtimeconfig.json
+/Users/stan/Projects/GreatestNumberFinder/GreatestNumberFinder/bin/Debug/net6.0/GreatestNumberFinder.dll
+/Users/stan/Projects/GreatestNumberFinder/GreatestNumberFinder/bin/Debug/net6.0/GreatestNumberFinder.pdb
+/Users/stan/Projects/GreatestNumberFinder/GreatestNumberFinder/obj/Debug/net6.0/GreatestNumberFinder.dll
+/Users/stan/Projects/GreatestNumberFinder/GreatestNumberFinder/obj/Debug/net6.0/refint/GreatestNumberFinder.dll
+/Users/stan/Projects/GreatestNumberFinder/GreatestNumberFinder/obj/Debug/net6.0/GreatestNumberFinder.pdb
+/Users/stan/Projects/GreatestNumberFinder/GreatestNumberFinder/obj/Debug/net6.0/GreatestNumberFinder.genruntimeconfig.cache
+/Users/stan/Projects/GreatestNumberFinder/GreatestNumberFinder/obj/Debug/net6.0/ref/GreatestNumberFinder.dll

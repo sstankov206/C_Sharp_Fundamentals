@@ -1,0 +1,15 @@
+/Users/stan/Projects/Login/Login/bin/Debug/net6.0/Login
+/Users/stan/Projects/Login/Login/bin/Debug/net6.0/Login.deps.json
+/Users/stan/Projects/Login/Login/bin/Debug/net6.0/Login.runtimeconfig.json
+/Users/stan/Projects/Login/Login/bin/Debug/net6.0/Login.dll
+/Users/stan/Projects/Login/Login/bin/Debug/net6.0/Login.pdb
+/Users/stan/Projects/Login/Login/obj/Debug/net6.0/Login.csproj.AssemblyReference.cache
+/Users/stan/Projects/Login/Login/obj/Debug/net6.0/Login.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stan/Projects/Login/Login/obj/Debug/net6.0/Login.AssemblyInfoInputs.cache
+/Users/stan/Projects/Login/Login/obj/Debug/net6.0/Login.AssemblyInfo.cs
+/Users/stan/Projects/Login/Login/obj/Debug/net6.0/Login.csproj.CoreCompileInputs.cache
+/Users/stan/Projects/Login/Login/obj/Debug/net6.0/Login.dll
+/Users/stan/Projects/Login/Login/obj/Debug/net6.0/refint/Login.dll
+/Users/stan/Projects/Login/Login/obj/Debug/net6.0/Login.pdb
+/Users/stan/Projects/Login/Login/obj/Debug/net6.0/Login.genruntimeconfig.cache
+/Users/stan/Projects/Login/Login/obj/Debug/net6.0/ref/Login.dll

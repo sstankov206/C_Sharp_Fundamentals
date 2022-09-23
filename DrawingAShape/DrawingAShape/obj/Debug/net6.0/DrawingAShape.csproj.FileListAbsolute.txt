@@ -1,0 +1,15 @@
+/Users/stan/Projects/DrawingAShape/DrawingAShape/bin/Debug/net6.0/DrawingAShape
+/Users/stan/Projects/DrawingAShape/DrawingAShape/bin/Debug/net6.0/DrawingAShape.deps.json
+/Users/stan/Projects/DrawingAShape/DrawingAShape/bin/Debug/net6.0/DrawingAShape.runtimeconfig.json
+/Users/stan/Projects/DrawingAShape/DrawingAShape/bin/Debug/net6.0/DrawingAShape.dll
+/Users/stan/Projects/DrawingAShape/DrawingAShape/bin/Debug/net6.0/DrawingAShape.pdb
+/Users/stan/Projects/DrawingAShape/DrawingAShape/obj/Debug/net6.0/DrawingAShape.csproj.AssemblyReference.cache
+/Users/stan/Projects/DrawingAShape/DrawingAShape/obj/Debug/net6.0/DrawingAShape.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stan/Projects/DrawingAShape/DrawingAShape/obj/Debug/net6.0/DrawingAShape.AssemblyInfoInputs.cache
+/Users/stan/Projects/DrawingAShape/DrawingAShape/obj/Debug/net6.0/DrawingAShape.AssemblyInfo.cs
+/Users/stan/Projects/DrawingAShape/DrawingAShape/obj/Debug/net6.0/DrawingAShape.csproj.CoreCompileInputs.cache
+/Users/stan/Projects/DrawingAShape/DrawingAShape/obj/Debug/net6.0/DrawingAShape.dll
+/Users/stan/Projects/DrawingAShape/DrawingAShape/obj/Debug/net6.0/refint/DrawingAShape.dll
+/Users/stan/Projects/DrawingAShape/DrawingAShape/obj/Debug/net6.0/DrawingAShape.pdb
+/Users/stan/Projects/DrawingAShape/DrawingAShape/obj/Debug/net6.0/DrawingAShape.genruntimeconfig.cache
+/Users/stan/Projects/DrawingAShape/DrawingAShape/obj/Debug/net6.0/ref/DrawingAShape.dll
