@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo", "demo\demo.csproj", "{A7DF0786-A131-4096-A3E0-71D3184D0BDC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeV2", "ShapeV2\ShapeV2.csproj", "{4D523EC5-CA70-4D6B-B98B-F8853133A5DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A7DF0786-A131-4096-A3E0-71D3184D0BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A7DF0786-A131-4096-A3E0-71D3184D0BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A7DF0786-A131-4096-A3E0-71D3184D0BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A7DF0786-A131-4096-A3E0-71D3184D0BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D523EC5-CA70-4D6B-B98B-F8853133A5DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D523EC5-CA70-4D6B-B98B-F8853133A5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D523EC5-CA70-4D6B-B98B-F8853133A5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D523EC5-CA70-4D6B-B98B-F8853133A5DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

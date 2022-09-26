@@ -1,11 +1,20 @@
-﻿<Properties StartupConfiguration="{A7DF0786-A131-4096-A3E0-71D3184D0BDC}|Default" GitUserInfo="UsingGIT">
+﻿<Properties StartupConfiguration="{4D523EC5-CA70-4D6B-B98B-F8853133A5DE}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ShapeV2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShapeV2/Program.cs">
+    <Files>
+      <File FileName="ShapeV2/Program.cs" Line="54" Column="21" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="fundamentals" expanded="True" selected="True">
-            <Node name="demo" expanded="True" />
+          <Node name="fundamentals" expanded="True">
+            <Node name="ShapeV2" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -14,10 +23,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.demo PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

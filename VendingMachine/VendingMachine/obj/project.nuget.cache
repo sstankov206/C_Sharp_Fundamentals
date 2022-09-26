@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yG/0loiPtzo6qDd956+fTQY2c7tswUrCIbpEz2t47fwLq2UO8ZRlvn05t7QXLV4ClkNTgjE8qkb1yWPLupJQmg==",
+  "dgSpecHash": "Upi8pdmXoiCF4gBeqyjJZgJEqv0z7M23kD4DTvh4lHIFQ+Rq/g3k2dXOK4se1GO8N8zR+dkls0dY2tA9yOWoow==",
   "success": true,
-  "projectFilePath": "/Users/stan/Projects/VendingMachine/VendingMachine/VendingMachine.csproj",
+  "projectFilePath": "/Users/stan/Projects/C_Sharp_Fundamentals/VendingMachine/VendingMachine/VendingMachine.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

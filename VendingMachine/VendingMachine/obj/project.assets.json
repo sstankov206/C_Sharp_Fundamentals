@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/stan/Projects/VendingMachine/VendingMachine/VendingMachine.csproj",
+      "projectUniqueName": "/Users/stan/Projects/C_Sharp_Fundamentals/VendingMachine/VendingMachine/VendingMachine.csproj",
       "projectName": "VendingMachine",
-      "projectPath": "/Users/stan/Projects/VendingMachine/VendingMachine/VendingMachine.csproj",
+      "projectPath": "/Users/stan/Projects/C_Sharp_Fundamentals/VendingMachine/VendingMachine/VendingMachine.csproj",
       "packagesPath": "/Users/stan/.nuget/packages/",
-      "outputPath": "/Users/stan/Projects/VendingMachine/VendingMachine/obj/",
+      "outputPath": "/Users/stan/Projects/C_Sharp_Fundamentals/VendingMachine/VendingMachine/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/stan/.nuget/NuGet/NuGet.Config"
