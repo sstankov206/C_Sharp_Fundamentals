@@ -1,20 +1,41 @@
-﻿<Properties StartupConfiguration="{4D523EC5-CA70-4D6B-B98B-F8853133A5DE}|Default" GitUserInfo="UsingGIT">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{CE186AA1-4247-4803-AEE3-FA8F967A6547}|Default">
+  <MonoDevelop.Ide.ItemProperties.beerKegs PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.numsInReverse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.sumOfChars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.dataTypeFinder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.sumOfEvenNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.train PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ShapeV2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="ShapeV2/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.smsMessages FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="train/Program.cs">
     <Files>
-      <File FileName="ShapeV2/Program.cs" Line="54" Column="21" />
+      <File FileName="numsInReverse/Program.cs" Line="27" Column="9" />
+      <File FileName="sumOfEvenNumbers/Program.cs" Line="31" Column="63" />
+      <File FileName="reverseArrayOfStrings/Program.cs" Line="29" Column="2" />
+      <File FileName="train/Program.cs" Line="48" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="fundamentals" expanded="True">
+            <Node name="arraysDemo" expanded="True" />
+            <Node name="beerKegs" expanded="True" />
+            <Node name="centuriesToMinutes" expanded="True" />
+            <Node name="dataTypeFinder" expanded="True" />
+            <Node name="elevator" expanded="True" />
+            <Node name="integerOperations" expanded="True" />
+            <Node name="numsInReverse" expanded="True" />
+            <Node name="reverseArrayOfStrings" expanded="True" />
             <Node name="ShapeV2" expanded="True" />
+            <Node name="smsMessages" expanded="True" />
+            <Node name="snowballs" expanded="True" />
+            <Node name="sumDigits" expanded="True" />
+            <Node name="sumDigitsV2" expanded="True" />
+            <Node name="sumOfChars" expanded="True" />
+            <Node name="sumOfEvenNumbers" expanded="True" />
+            <Node name="train" expanded="True" />
+            <Node name="waterOverflow" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -23,4 +44,18 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.snowballs FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.arraysDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ShapeV2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.sumDigits PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.elevator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.integerOperations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.sumDigitsV2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.waterOverflow FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.reverseArrayOfStrings PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.centuriesToMinutes PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
